@@ -1,4 +1,3 @@
-package actividad_01;
 public class Autenticador {
     private String[] usuariosPermitidos = {"admin","usuario", "invitado"};
     public boolean autenticar(String usuario, String password) {
